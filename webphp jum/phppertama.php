@@ -37,7 +37,7 @@
                         $tht = "</td>";
                         echo $th . "1" . $tht;
                         echo $th . "Nama" . $tht;
-                        echo $th . "Mursidin" . $tht;
+                        echo $th . "jumriani" . $tht;
                     ?>
                 </tr>
                 <tr>
@@ -46,7 +46,7 @@
                         $tht = "</td>";
                         echo $th . "2" . $tht;
                         echo $th . "Nim" . $tht;
-                        echo $th . "19024014067" . $tht;
+                        echo $th . "19024014043" . $tht;
                     ?>
                 </tr>
                 <tr>
@@ -64,7 +64,7 @@
                         $tht = "</td>";
                         echo $th . "4" . $tht;
                         echo $th . "Hoby" . $tht;
-                        echo $th . "Ngoding, Ngopi, Nonton dll" . $tht;
+                        echo $th . "bulu tungkis" . $tht;
                     ?>
                 </tr>
                 <tr>
@@ -73,7 +73,7 @@
                         $tht = "</td>";
                         echo $th . "5" . $tht;
                         echo $th . "Alamat" . $tht;
-                        echo $th . "Buton Tengah" . $tht;
+                        echo $th . " Pinrang" . $tht;
                     ?>
                 </tr>
             </tbody>
